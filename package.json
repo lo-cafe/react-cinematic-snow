@@ -1,6 +1,6 @@
 {
   "name": "react-cinematic-snow-mobile-fix",
-  "version": "1.0.3-fork.1",
+  "version": "1.0.4",
   "description": "A high-performance, cinematic, and realistic React snowfall effect library with WebGL and Canvas rendering.",
   "homepage": "https://khoa.ma/work/react-cinematic-snow",
   "repository": {
